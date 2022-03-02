@@ -8,7 +8,7 @@ Soy Luciano, un desarrollador Full-Stack de Argentina
 - 🧭 Actualmente trabajando en <a href="https://sanbernardo.cf">Municipio de San Bernardo<a/>
 
 ## Skills
-- 👨‍💻 TypeScript, JavaScript, PHP, C#
+- 👨‍💻 TypeScript, JavaScript, PHP, Angular, React
 - 👁️ SASS, CSS, Stylus, HTML
 - 💽 MySQL, SQL, Mongo, Redis
 
