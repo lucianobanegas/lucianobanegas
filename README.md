@@ -13,6 +13,6 @@ Soy Luciano, un desarrollador Full-Stack de Argentina
 - 💽 MySQL, SQL, Mongo, Redis
 
 ## Contacto
-- [@Página web](https://lucianob.cf)
+- [Página web](https://lucianob.cf)
 - [@lucianooo_b](https://twitter.com/lucianooo_b) on Twitter
 - [@lucianooo_b](https://twitter.com/lucianooo_b) on Instagram
